@@ -10,7 +10,10 @@ design:
 sections:
   - block: hero
     content:
-      title: 🤔<color= "#fff">Ищешь лучший впн?</color><br>Выбирай 👻#ghostVPN
+      title:
+    <style> <font-color= "#fff">
+    </style>
+    🤔Ищешь лучший впн?<br>Выбирай 👻#ghostVPN
       text: 😱 У нас не дорогие цены и есть тестовый период
       primary_action:
         text: Купить впн
