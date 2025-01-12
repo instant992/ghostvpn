@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Write Docs Fast, Focus on Your Content
-      text: The easy, no-code technical documentation solution your users will love 🎉
+      title: Ищешь не дорогой и быстрый впн? Закажи #ghostVPN
+      text: У нас не дорогие цены и есть тестовый переод
       primary_action:
         text: Купить впн
         url: https://t.me/vpnghostbot?start=3
