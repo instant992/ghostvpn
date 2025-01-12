@@ -20,10 +20,10 @@ sections:
         text: Перейти к инструкции
         url: docs/
       announcement:
-        text: "Announcing the release of version 2."
+        text: "В нашем чате проходит конкурс на впн."
         link:
-          text: "Read more"
-          url: "/blog/"
+          text: "Перейти"
+          url: "https://t.me/r9_rus/584451"
     design:
       spacing:
         padding: [0, 0, 0, 0]
