@@ -20,7 +20,7 @@ sections:
         text: Перейти к инструкции
         url: docs/
       announcement:
-        text: <p style="color:#90EE90;" "В нашем чате телеграмм проходит конкурс на впн."</p>
+        text: <p style="color:#90EE90;">"В нашем чате телеграмм проходит конкурс на впн."</p>
         link:
           text: "Перейти"
           url: "https://t.me/r9_rus/584451"
