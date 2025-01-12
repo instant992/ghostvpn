@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Ищешь не дорогой и быстрый впн? Закажи #ghostVPN
-      text: У нас не дорогие цены и есть тестовый переод
+      title: Ищешь лучший впн? Выбирай #ghostVPN
+      text: У нас не дорогие цены и есть тестовый период
       primary_action:
         text: Купить впн
         url: https://t.me/vpnghostbot?start=3
