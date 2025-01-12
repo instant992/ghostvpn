@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: 🤔Ищешь лучший впн? <br>Выбирай 👻#ghostVPN
-      text: У нас не дорогие цены и есть тестовый период
+      text: 😱 У нас не дорогие цены и есть тестовый период
       primary_action:
         text: Купить впн
         url: https://t.me/vpnghostbot?start=3
