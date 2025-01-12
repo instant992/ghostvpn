@@ -10,8 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title:
-    🤔Ищешь лучший впн?<br>Выбирай 👻#ghostVPN
+      title: 🤔Ищешь лучший впн?<br>Выбирай 👻#ghostVPN
       text: 😱 У нас не дорогие цены и есть тестовый период
       primary_action:
         text: Купить впн
