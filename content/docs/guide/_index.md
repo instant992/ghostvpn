@@ -1,5 +1,5 @@
 ---
-title: Guide
+title: Андроид
 weight: 2
 sidebar:
   open: true
