@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: 🤔<h1 style="color:#FFFF00;">Ищешь лучший впн?<br>Выбирай 👻#ghostVPN </h1>
-      text: 😱 У нас не дорогие цены и есть тестовый период
+      title: 🤔<h2 style="color:#FFFF00;">Ищешь лучший впн?<br>Выбирай 👻#ghostVPN </h2>
+      text: 😱 <p style="color:#FFFF00;">У нас не дорогие цены и есть тестовый период </p>
       primary_action:
         text: Купить впн
         url: https://t.me/vpnghostbot?start=3
