@@ -13,12 +13,12 @@ sections:
       title: Write Docs Fast, Focus on Your Content
       text: The easy, no-code technical documentation solution your users will love 🎉
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
+        text: Купить впн
+        url: https://t.me/vpnghostbot?start=3
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
-        url: instant299/docs/
+        text: Перейти к инструкции
+        url: docs/
       announcement:
         text: "Announcing the release of version 2."
         link:
