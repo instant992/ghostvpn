@@ -49,7 +49,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company. This work is licensed under {license}'
+    notice: '© {year} ghostVPN.'
     license:
       enable: false
       allow_derivatives: false
