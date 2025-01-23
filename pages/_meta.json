@@ -1,6 +1,7 @@
 {
   "index": "Introduction",
   "another": "Another Page",
+  "donate": "Донат",
   "about": {
     "title": "About",
     "type": "page"
