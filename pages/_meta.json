@@ -1,16 +1,10 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
   "system": "Системы",
   "donate": "Донат",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Купить впн 👻",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://t.me/vpnghostbot",
     "newWindow": true
   }
 }
