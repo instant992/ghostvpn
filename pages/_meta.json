@@ -2,20 +2,6 @@
   "index": "Introduction",
   "another": "Another Page",
   "donate": "Донат",
-  {
-    // content/about
-    "name": "about",
-    "route": "/about",
-    "children": [
-      // content/about/_meta.js
-      { "data": {} },
-      // content/about/index.mdx
-      { "name": "index", "route": "/about", "frontMatter": {} },
-      // content/about/legal.md
-      { "name": "legal", "route": "/about/legal", "frontMatter": {} }
-    ],
-    "title": "About"
-  },
   "about": {
     "title": "About",
     "type": "page"
