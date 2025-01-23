@@ -3,9 +3,9 @@
   "system": "Системы",
   "donate": "Донат",
   "contact": {
-    "title": "Купить впн 👻",
+    "title": "Cтатус серверов 📈",
     "type": "page",
-    "href": "https://t.me/vpnghostbot",
+    "href": "http://live.vpnghost.space/",
     "newWindow": true
   }
 }
