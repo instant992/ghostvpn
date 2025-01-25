@@ -3,8 +3,8 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
   logo: <span>👻<b>ghostVPN</b></span>,
-  chat: {
-    links: 'https://t.me/vpnghostbot',
+  chat2: {
+    link: 'https://t.me/vpnghostbot',
   },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
