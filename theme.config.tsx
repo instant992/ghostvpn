@@ -3,7 +3,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
   logo: <span>👻<b>ghostVPN</b></span>,
-  chatLink: {
+  chat: {
     link: 'https://t.me/vpnghostbot',
     <svg width="24" height="24" viewBox="0 0 248 204">
       <path
