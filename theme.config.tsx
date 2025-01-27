@@ -2,7 +2,7 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>👻<b>ghostVPN</b></span>,
+  logo: <img src="https://vpnghost.space/manual/logo.png" width="160px" />,
   chat: {
     link: 'https://t.me/vpnghostbot',
   },
