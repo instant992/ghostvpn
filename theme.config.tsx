@@ -4,8 +4,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <img src="https://vpnghost.space/manual/logo.png" width="160px" />,
   chat: {
-    logo: <img src="https://vpnghost.space/manual/logo.png" width="160px" />
-    link: 'https://t.me/vpnghostbot',
+    link: <img src="https://vpnghost.space/manual/logo.png" width="160px" />,
   },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
